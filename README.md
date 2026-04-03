@@ -3,7 +3,7 @@
 A premium, high-performance portfolio website showcasing over 10 years of expertise in Android SDK, AOSP, and Framework development. This project is built with a focus on modern aesthetics, fluid animations, and robust cloud-native deployment.
 
 ## 🚀 Live Demo
-Check out the live site here: [Coming Soon] (Deploy to Cloud Run to get your URL!)
+https://prabhakaranportfolio-347207725095.europe-west1.run.app/
 
 ---
 
