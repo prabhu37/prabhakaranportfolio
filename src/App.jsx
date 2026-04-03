@@ -109,7 +109,7 @@ const App = () => {
             transition={{ duration: 0.8 }}
           >
             <div className="hero-image-blob">
-              <img src="/src/assets/hero-illustration.png" alt="Tech Illustration" className="hero-illustration float-animation" />
+              <img src={heroIllustration} alt="Tech Illustration" className="hero-illustration float-animation" />
             </div>
           </motion.div>
         </div>
