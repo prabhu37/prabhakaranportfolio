@@ -31,6 +31,7 @@ const Linkedin = ({ size = 20 }) => (
 );
 import { resumeData } from './data/resumeData';
 import './App.css';
+import heroIllustration from './assets/hero-illustration.png';
 
 const Section = ({ title, id, children }) => (
   <motion.section 
