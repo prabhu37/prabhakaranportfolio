@@ -1,0 +1,85 @@
+export const resumeData = {
+  name: "Prabhakaran Panjalingam",
+  title: "Senior Member of Technical Staff - Android",
+  summary: "Experienced Mobile Application, AOSP, Framework, and SDK Developer with over 10 years of industry experience. Proven track record of delivering high-quality products ahead of schedule. Possesses strong end-to-end application lifecycle expertise, excellent problem-solving abilities, and a dynamic, adaptable professional approach.",
+  contact: {
+    email: "prabhukaran1993@gmail.com",
+    phone: "+91 9865194939",
+    linkedin: "https://www.linkedin.com/in/prabha-android/",
+    github: "https://github.com/prabhu37",
+    address: "Tirupur, TN 642154",
+  },
+  workHistory: [
+    {
+      role: "Senior Member of Technical Staff - Android",
+      company: "Nielsen Media India Pvt Ltd",
+      location: "Bengaluru, Karnataka",
+      period: "06/2025 to Current",
+      highlights: [
+        "Developed and maintained a scalable Android SDK using Java/Kotlin, including WorkManager, multithreading, and support for 6+ product flavors.",
+        "Built strong testing and automation frameworks by executing automated test suites and writing unit/component tests using Mockito and Roboletric.",
+        "Ensured high code quality and reliability through continuous monitoring with JaCoCo code coverage and static analysis tools like SpotBugs.",
+      ],
+    },
+    {
+      role: "Senior Android Engineer",
+      company: "Jio Platforms Limited",
+      location: "Bengaluru, Karnataka",
+      period: "11/2021 to 06/2025",
+      highlights: [
+        "Worked extensively on Android Open Source Project (AOSP) components including Settings, Launcher, SystemUI, SystemService, Widgets, and internal Framework modules.",
+        "Developed and integrated core Android features using AIDL, HIDL, JNI, NDK, Content Providers, and strong experience in Android build systems like Android.bp (Soong) and Makefiles.",
+        "Built and optimized on-device AI applications such as chatbots and speech recognition apps using local models like Gemini, Gemma, LLaMA, ONNX-based models, and Vector Databases.",
+        "Managed 3 parallel projects and successfully led a team of 4 engineers, coordinating development, task execution, and timely delivery of high-quality system-level enhancements.",
+      ],
+    },
+    {
+      role: "Senior Android Developer",
+      company: "Jio Platforms Limited (via Rws Moravia)",
+      location: "Mumbai, Maharashtra",
+      period: "09/2020 to 11/2021",
+      highlights: [
+        "Developed Android Set-Top Box Launcher apps with hotspot-based setup and connectivity features.",
+        "Built enterprise provisioning apps using SCEP for secure network and certificate-based authentication.",
+        "Created desktop-mode Android system apps like Taskbar, Screensaver, Screen Recorder, and Global Search.",
+        "Developed custom Widget applications using Jetpack Compose and Kotlin Flows, along with Flutter-based tablet client apps.",
+      ],
+    },
+    {
+      role: "Android Developer",
+      company: "Aximsoft India Pvt Ltd",
+      location: "Coimbatore, Tamilnadu",
+      period: "09/2016 to 09/2020",
+      highlights: [
+        "Developed and released multiple Android applications using MVVM architecture with Java, Kotlin, and Jetpack Compose.",
+        "Managed app deployments through Jenkins and GitLab CI/CD pipelines, delivering Play Store-ready releases efficiently.",
+        "Built cross-platform solutions including Unity3D game development and mobile apps using Flutter.",
+        "Worked on multimedia and AI-driven projects using ARCore, TensorFlow, and Google ML Kit.",
+      ],
+    },
+  ],
+  skills: {
+    mobile: ["Android (AOSP)", "SDK Development", "Framework", "Jetpack (Compose, DataBinding, LiveData, RoomDb)", "Flutter", "Unity3D"],
+    languages: ["Java", "Kotlin", "C", "C++", "C#", "ReactJS", "XML"],
+    multithreading: ["Coroutines", "WorkManager", "AlarmManager", "JobScheduler", "Services"],
+    ai_ml: ["TensorFlow", "ML Kit", "ARCore", "OpenCV", "FFMPEG", "ONNX-based models", "Gemini", "Gemma", "LLaMA"],
+    architecture: ["MVC", "MVP", "MVVM", "RAG Architecture", "Vector Databases"],
+    tools: ["Android Studio", "Visual Studio", "Jenkins", "GitLab CI", "Git/Gerrit", "JaCoCo", "SpotBugs", "Mockito", "Robolectric"],
+    integrations: ["Firebase (Crashlytics, FCM, Auth)", "Google Maps", "Location Services", "Payment Gateways (Google Pay, Razor Pay)", "AIDL", "HIDL", "JNI", "NDK"],
+    framework: ["Bluetooth", "WiFi Settings", "Binder IPC", "Android HMI 4", "Android TV", "Wear OS", "SetTopBox"],
+  },
+  education: [
+    {
+      degree: "MCA, Computer Application",
+      college: "Kongu Engineering College",
+      location: "Perundurai, Erode, Tamilnadu",
+      period: "06/2013 to 05/2016",
+    },
+    {
+      degree: "BCA, Computer Application",
+      college: "Sree Saraswathi Thiyagara College",
+      location: "Pollachi, Tamilnadu",
+      period: "06/2010 to 05/2013",
+    },
+  ],
+};
